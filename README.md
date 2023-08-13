@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepak Punia</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-<!--
-**deepakpunia624/deepakpunia624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpunia624&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpunia624" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Node.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/deepakpunia624](https://github.com/deepakpunia624)
+
+- 💬 Ask me about **Node.js, Git, Postman, Logging**
+
+- 📫 How to reach me **deepakpunia624@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/Asus%20Laptop/Downloads/Deepak_Punia_Resume_12-08-2023-16-09-00.pdf](file:///C:/Users/Asus%20Laptop/Downloads/Deepak_Punia_Resume_12-08-2023-16-09-00.pdf)
+
+- ⚡ Fun fact **I am Humorous 😅**
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakpunia624&show_icons=true&locale=en&layout=compact" alt="deepakpunia624" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakpunia624&show_icons=true&locale=en" alt="deepakpunia624" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakpunia624&" alt="deepakpunia624" /></p>
