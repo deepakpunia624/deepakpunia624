@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **deepakpunia624@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Asus%20Laptop/Downloads/Deepak_Punia_Resume_12-08-2023-16-09-00.pdf](file:///C:/Users/Asus%20Laptop/Downloads/Deepak_Punia_Resume_12-08-2023-16-09-00.pdf)
-
 - ⚡ Fun fact **I am Humorous 😅**
 
 
