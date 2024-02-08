@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpunia624&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpunia624" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently working as **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepakpunia624](https://github.com/deepakpunia624)
 
-- 💬 Ask me about **Node.js, Git, Postman, Logging**
+- 💬 Ask me about **Node.js, Postman, Logging, Express, Nest.js, PostgreSql, Git, Github, Monorepo, Mongodb, Swagger**
 
 - 📫 How to reach me **deepakpunia624@gmail.com**
 
